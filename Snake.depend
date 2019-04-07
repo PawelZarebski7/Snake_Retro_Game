@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554679853 source:c:\users\lenovo\desktop\=snake_c==\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+
